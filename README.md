@@ -6,9 +6,7 @@
 <!--<h1 align='center'> :wave: Welcome! :wave:</h1>-->
 <h3 align='center'> I'm Emanuel. </h3>
 <h3 align='center'> I really like R. I think it is <b>supeR</b> ;)</h3>
-<p align='center'>
-  (Sidenote: I created the Gif above in R using ggplot2 and rayshader)
-</p>
+
 <!--
 <p align='center'>
   I'm Emanuel.
@@ -44,3 +42,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=EmanuelSommer&theme=synthwave" />
 ![](supeR.gif)
 -->
+
+<p align='center'>
+  (Sidenote: I created the Gif above in R using ggplot2 and rayshader)
+</p>
