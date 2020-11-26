@@ -14,10 +14,11 @@
 <p align='center'>
   <img src="supeR.gif" width="300" height="300"/>
 </p>
-
 <p align='center'>
-  Actually this gif was created in R using ggplot2 and rayshader.
+  (Created in R using ggplot2 and rayshader)
 </p>
+
+
 <!--
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmanuelSommer&hide=html&layout=compact&theme=synthwave" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=EmanuelSommer&theme=synthwave" />
