@@ -1,6 +1,10 @@
 ### Hi there 👋
 <img src="https://raw.githubusercontent.com/EmanuelSommer/EmanuelSommer/master/supeR_round.gif" width="30px">
 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmanuelSommer&hide=html&layout=compact&theme=synthwave" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/?username=EmanuelSommer&theme=synthwave" />
+
+![](supeR_round.gif)
 <!--
 **EmanuelSommer/EmanuelSommer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
