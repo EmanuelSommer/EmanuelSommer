@@ -1,4 +1,5 @@
-<h1 align='center'> :wave: Welcome! :wave:</h1>
+<h1 align='center'> Welcome!</h1>
+<!--<h1 align='center'> :wave: Welcome! :wave:</h1>-->
 <h3 align='center'> I'm Emanuel. </h3>
 <h3 align='center'> I really like R. I think it is <b>supeR</b> ;)</h3>
 
