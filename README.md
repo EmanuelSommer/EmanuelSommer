@@ -1,5 +1,5 @@
 <p align='center'>
-  <img src="supeR.gif" width="300" height="300"/><img src="supeR.gif" width="300" height="300"/><img src="supeR.gif" width="300" height="300"/>
+  <img src="supeR.gif" width="250" height="250"/><img src="supeR.gif" width="250" height="250"/><img src="supeR.gif" width="250" height="250"/>
 </p>
 
 <h1 align='center'> Welcome!</h1>
