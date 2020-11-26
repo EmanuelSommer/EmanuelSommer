@@ -7,7 +7,7 @@
 <h3 align='center'> I'm Emanuel. </h3>
 <h3 align='center'> I really like R. I think it is <b>supeR</b> ;)</h3>
 <p align='center'>
-  (Gif above created in R using ggplot2 and rayshader)
+  (Sidenote: I created the Gif above in R using ggplot2 and rayshader)
 </p>
 <!--
 <p align='center'>
