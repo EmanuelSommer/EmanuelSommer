@@ -18,7 +18,7 @@
 </p>
 -->
 
-<h3 align='center'> 💙 Interests </h3>
+<h3 align='center'> 📚 Academical interests </h3>
 
 <p align='center'>
   <img src= "https://img.shields.io/badge/Statistics-informational?style=flat&color=114797"/>
