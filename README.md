@@ -44,5 +44,5 @@
 -->
 
 <h6 align='center'>
-  (Sidenote: I created the Gif above in R using ggplot2 and rayshader)
+  Sidenote: I created the Gif above in R using ggplot2 and rayshader
 </h6>
