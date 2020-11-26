@@ -13,7 +13,7 @@
 -->
 
 <p align='center'>
-  <img src="supeR.gif" width="300" height="300"/>
+  <img src="supeR.gif" width="300" height="300"/><img src="supeR.gif" width="300" height="300"/><img src="supeR.gif" width="300" height="300"/>
 </p>
 <p align='center'>
   (Created in R using ggplot2 and rayshader)
