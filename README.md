@@ -33,7 +33,9 @@
   <img src= "https://img.shields.io/badge/SQL-informational?style=flat&logo=PostgreSQL&logoColor=white&color=114797"/>
   <img src= "https://img.shields.io/badge/LaTex-informational?style=flat&logo=LaTex&logoColor=white&color=114797"/>
   <img src= "https://img.shields.io/badge/MS Office-informational?style=flat&logo=microsoft&logoColor=white&color=114797"/>
+  <img src= "https://img.shields.io/badge/Git-informational?style=flat&logo=git&logoColor=white&color=114797"/>
   <img src= "https://img.shields.io/badge/Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=114797"/>
+  <!-- very basic knowledge C++, Matlab, Java-->
   <!--<img src= "https://img.shields.io/badge/C++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=114797"/>-->
 </p>
 
