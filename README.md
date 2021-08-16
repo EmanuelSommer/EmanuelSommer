@@ -4,7 +4,7 @@
 
 <h1 align='center'> Welcome!</h1>
 <!--<h1 align='center'> :wave: Welcome! :wave:</h1>-->
-<h5 align='center'> My name is Emanuel, and I am currently doing my Masters in Mathematics. </h5>
+<h5 align='center'> My name is Emanuel, and I am currently doing my Masters in Mathematics in Data Science. </h5>
 <h5 align='center'> I really like R. I think it is <b>supeR</b> ;)</h5>
 
 <!--
