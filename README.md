@@ -4,19 +4,11 @@
 
 <h1 align='center'> Welcome!</h1>
 <!--<h1 align='center'> :wave: Welcome! :wave:</h1>-->
-<h5 align='center'> My name is Emanuel, and I am currently doing my Masters in Mathematics in Data Science. </h5>
+<h5 align='center'> My name is Emanuel, and I'm a Mathematician & Data Scientist. </h5>
 
 <h5 align='center'> I'm happy you found your way down here! 🥳<br> If you come across any issues in one of my projects or have suggestions for improvement, I would love to hear from you!</h5>
 <h5 align='center'> Quite evidently I really like R. I think it is <b>supeR</b> 😉</h5>
 
-<!--
-<p align='center'>
-  I'm Emanuel.
-</p>
-<p align='center'>
-  Quite evidently I really like R. I think it is <b>supeR</b> 😉
-</p>
--->
 
 <h3 align='center'> 📚 Academical interests </h3>
 
@@ -24,6 +16,10 @@
   <img src= "https://img.shields.io/badge/Statistics-informational?style=flat&color=114797"/>
   <img src= "https://img.shields.io/badge/Machine Learning-informational?style=flat&color=114797"/>
   <img src= "https://img.shields.io/badge/Data Science-informational?style=flat&color=114797"/>
+</p>
+<p align='center'>
+  I know that's not specific at all, but I haven't really encountered<br> a topic in these fields that I wasn't enthusiastic about! 😅 
+  <br>Just don't let me do bitwise stuff 😵😄
 </p>
 
 <h3 align='center'> 🔧 Most used technologies & tools </h3>
