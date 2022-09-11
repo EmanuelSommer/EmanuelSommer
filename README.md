@@ -7,7 +7,7 @@
 <h5 align='center'> My name is Emanuel, and I'm a Mathematician & Data Scientist. </h5>
 
 <h5 align='center'> I'm happy you found your way down here! 🥳<br> If you come across any issues in one of my projects or have suggestions for improvement, I would love to hear from you!</h5>
-<h5 align='center'> Quite evidently I really like R. I think it is <b>supeR</b> 😉</h5>
+<h5 align='center'> Quite evidently I really like R. I think it is <b>supeR</b> 😉 <br> However I also appreciate Python a lot, which currently is my most used programming language in my day to day work. </h5>
 
 
 <h3 align='center'> 📚 Academical interests </h3>
@@ -28,7 +28,13 @@
   <img src= "https://img.shields.io/badge/R-informational?style=flat&logo=Rstudio&logoColor=white&color=114797"/>
   <img src= "https://img.shields.io/badge/RStudio-informational?style=flat&logo=Rstudio&logoColor=white&color=114797"/>
   <img src= "https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&color=114797"/>
+  <img src= "https://img.shields.io/badge/VS Code-informational?style=flat&logo=VisualStudioCode&logoColor=white&color=114797"/>
   <img src= "https://img.shields.io/badge/SQL-informational?style=flat&logo=PostgreSQL&logoColor=white&color=114797"/>
+  <img src= "https://img.shields.io/badge/AWS-informational?style=flat&logo=amazon-web-services&logoColor=white&color=114797"/>
+  <img src= "https://img.shields.io/badge/FastAPI-informational?style=flat&logo=FastAPI&logoColor=white&color=114797"/>
+  <img src= "https://img.shields.io/badge/Metaflow-informational?style=flat&logo=metaflow&logoColor=white&color=114797"/>
+  <!--<img src= "https://img.shields.io/badge/MLflow-informational?style=flat&logo=mlflow&logoColor=white&color=114797"/>-->
+  <img src= "https://img.shields.io/badge/Docker-informational?style=flat&logo=Docker&logoColor=white&color=114797"/>
   <img src= "https://img.shields.io/badge/LaTex-informational?style=flat&logo=LaTex&logoColor=white&color=114797"/>
   <img src= "https://img.shields.io/badge/MS Office-informational?style=flat&logo=microsoft&logoColor=white&color=114797"/>
   <img src= "https://img.shields.io/badge/Git-informational?style=flat&logo=git&logoColor=white&color=114797"/>
