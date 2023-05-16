@@ -7,7 +7,7 @@
 <h5 align='center'> My name is Emanuel, and I'm a Mathematician & Data Scientist. </h5>
 
 <h5 align='center'> I'm happy you found your way down here! 🥳<br> If you come across any issues in one of my projects or have suggestions for improvement, I would love to hear from you!</h5>
-<h5 align='center'> Quite evidently I really like R. I think it is <b>supeR</b> 😉 <br> However I also appreciate Python a lot, which currently is my most used programming language in my day to day work. </h5>
+<h5 align='center'> Quite evidently I like R quite a lot. I think it is <b>supeR</b> 😉 <br> However I also appreciate Python a lot, which currently is my most used programming language in my day to day work. <br>And who knows maybe I'll use Mojo soon 🔥  </h5>
 
 
 <h3 align='center'> 📚 Academical interests </h3>
@@ -19,7 +19,7 @@
 </p>
 <p align='center'>
   I know that's not specific at all, but I haven't really encountered<br> a topic in these fields that I wasn't enthusiastic about! 😅 
-  <br>Just don't let me do bitwise stuff 😵😄
+  <br>That's exactly the reason why <b>I am most interested in methodology that blends together</b> the rigor and concepts to deal e.g. with uncertainty from <b>Statistics</b> with the flexibility and scalability of modern <b>Machine and Deep learning</b>. 🤩
 </p>
 
 <h3 align='center'> 🔧 Most used technologies & tools </h3>
