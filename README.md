@@ -4,6 +4,8 @@
 
 <h5 align='center'> I'm happy you found your way down here! 🥳<br> If you come across any issues in one of my projects or have suggestions for improvement, I would love to hear from you! I firmly believe in the power of diverse perspectives and I'm always excited to embrace new insights and ideas! 🌍 </h5>
 
+<h5 align='center'> In case you want to get to know me better check out my <a href="[https://www.openai.com](https://emanuelsommer.github.io/my-yourney/)">personal website by clicking here!</a> </h5>
+
 <!--
 <h5 align='center'> I love to work/play with data which for me always starts with a meticulous examination of its intricacies from various angles. This is what allows me to unlock hidden gems of insight, inspires me methodologically and ultimately enables me to construct creative yet robust, production-grade deliverables. 💎 This is metaphorically illustrated by the below GIF of an RGB decomposition of a network graph, which I put here just due to the fact that I was having some fun playing around with the badass {rayshader} R package and although far fetched it kind of matched this intro so I had an excuse to put it out there. 😄 </h5>
 
