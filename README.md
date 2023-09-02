@@ -1,6 +1,6 @@
 <h1 align='center'> Welcome!</h1>
 <!--<h1 align='center'> :wave: Welcome! :wave:</h1>-->
-<h5 align='center'> My name is Emanuel, and I'm a Mathematician & Data Scientist. </h5>
+<h5 align='center'> My name is Emanuel, and I'm a Mathematician, Data Scientist and currently pursuing a PhD in Stats & ML. </h5>
 
 <h5 align='center'> I'm happy you found your way down here! 🥳<br> If you come across any issues in one of my projects or have suggestions for improvement, I would love to hear from you! I firmly believe in the power of diverse perspectives and I'm always excited to embrace new insights and ideas! 🌍 </h5>
 
