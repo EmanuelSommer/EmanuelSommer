@@ -32,7 +32,7 @@
 
 <br>
 
-| <img src="network_gif_small.gif" width="200" height="200" style="border: 0; vertical-align: top;"/> | <h5 style="font-size: 14px; margin: 0;"> I love to work/play with data!<br><br>This is metaphorically illustrated by this GIF of an RGB decomposition of a network graph, which I put here just due to the fact that I was having some fun playing around with the badass {rayshader} R package and had to put it somewhere. 😄 <h5> |
+| <img src="network_gif_small.gif" width="200" height="200" style="border: 0; vertical-align: top;"/> | <h5 style="font-size: 14px; margin: 0;"> I love to work/play with data!<br><br>Just look at this lovely GIF of an RGB decomposition of a network graph, which I put here just due to the fact that I was having some fun playing around with the badass {rayshader} R package and had to put it somewhere. 😄 <h5> |
 |---|---|
 
 
