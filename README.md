@@ -6,13 +6,13 @@ Code is my tool for bringing concepts, ideas, and visions to life ✨ And beauti
 Here, you’ll find a wild mix of repos—from financial forecasting/modeling to Bayesian Deep Learning, fun projects like hackathons, and teaching resources. Feel free to explore, connect, or say hi!
 <br><br>
 <p align="center">
-   <a href="https://emanuelsommer.github.io/my-journey/" target="_blank">
+   <a href="https://emanuelsommer.github.io/my-yourney/" target="_blank">
         <img src="https://img.shields.io/badge/Website-My_Journey-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"/>
     </a>
-    <a href="https://scholar.google.com" target="_blank">
+    <a href="https://scholar.google.com/citations?user=qa2P1tYAAAAJ&hl=de" target="_blank">
         <img src="https://img.shields.io/badge/Google_Scholar-Papers-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white"/>
     </a>
-    <a href="https://linkedin.com" target="_blank">
+    <a href="https://www.linkedin.com/in/emanuelsommer/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-Connect-4285F4?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
 </p>
