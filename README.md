@@ -3,7 +3,7 @@
 **I'm Emanuel**—a Machine Learning Researcher, Mathematician, Data Scientist, and currently completing a PhD in Stats & ML. I’m passionate about the full data science lifecycle, with core expertise in Statistical Modeling and scalable and reliable (Bayesian) Deep Learning. 
 Code is my tool for bringing concepts, ideas, and visions to life ✨ Beautiful, fast, and reliable code is also something of a guilty pleasure 😏
 
-Here, you’ll find a wild mix of repos—from financial forecasting/modeling to Bayesian Deep Learning, fun projects like hackathons, and teaching resources. Feel free to explore, connect, or say hi!
+Here, you’ll find a wild mix of repos ranging from financial forecasting/modeling to Bayesian Deep Learning, fun projects like hackathons, and teaching resources. Feel free to explore, connect, or say hi!
 <br><br>
 <p align="center">
    <a href="https://emanuelsommer.github.io/my-journey/" target="_blank">
