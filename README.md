@@ -1,7 +1,7 @@
 # Hello there!
 
-**I'm Emanuel**—a Mathematician, Data Scientist, and Doctoral Candidate in Stats & ML. I’m passionate about the full data science lifecycle, with core expertise in Statistical Modeling and scalable and reliable (Bayesian) Deep Learning. 
-Code is my tool for bringing concepts, ideas, and visions to life ✨ And beautiful, fast, and reliable code my guilty pleasure 😏
+**I'm Emanuel**—a Machine Learning Researcher, Mathematician, Data Scientist, and currently completing a PhD in Stats & ML. I’m passionate about the full data science lifecycle, with core expertise in Statistical Modeling and scalable and reliable (Bayesian) Deep Learning. 
+Code is my tool for bringing concepts, ideas, and visions to life ✨ Beautiful, fast, and reliable code is also something of a guilty pleasure 😏
 
 Here, you’ll find a wild mix of repos—from financial forecasting/modeling to Bayesian Deep Learning, fun projects like hackathons, and teaching resources. Feel free to explore, connect, or say hi!
 <br><br>
@@ -16,8 +16,6 @@ Here, you’ll find a wild mix of repos—from financial forecasting/modeling to
         <img src="https://img.shields.io/badge/LinkedIn-Connect-4285F4?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
 </p>
-
-
 
 
 <!--<h1 align='center'> Welcome!</h1>-->
